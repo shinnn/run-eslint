@@ -28,7 +28,7 @@
       "url": "https://github.com/shinnn"
     }
   ],
-  "license": "MIT",
+  "license": "https://github.com/shinnn/lt-ie-9/blob/master/LICENSES.md",
   "ignore": [
     "**/.*",
     "bower_components",

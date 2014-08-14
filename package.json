@@ -13,7 +13,8 @@
   },
   "licenses": [
     {
-      "url": "https://github.com/shinnn//blob/master/LICENSE"
+      "type": "MIT/GPL2",
+      "url": "https://github.com/shinnn/lt-ie-9/blob/master/LICENSES.md"
     }
   ],
   "files": [
