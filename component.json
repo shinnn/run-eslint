@@ -1,0 +1,29 @@
+{
+  "name": "lt-ie-9",
+  "version": "0.1.0",
+  "description": "A suite of client-side libraries for IE6-8",
+  "keywords": [
+    "ie",
+    "ie6",
+    "ie7",
+    "ie8",
+    "ie9",
+    "fix",
+    "compatibility",
+    "legacy",
+    "outdated",
+    "selectivizr",
+    "respond",
+    "html5shiv"
+  ],
+  "repository": "shinnn/lt-ie-9",
+  "main": "lt-ie-9.js",
+  "scripts": [
+    "lt-ie-9.js",
+    "lt-ie-9.min.js"
+  ],
+  "files": [
+    "LICENSES.md"
+  ],
+  "license": "MIT/GPL2"
+}
