@@ -1,6 +1,6 @@
 {
   "name": "lt-ie-9",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A suite of client-side libraries for IE6-8",
   "repository": "shinnn/lt-ie-9",
   "author": {
