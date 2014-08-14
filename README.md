@@ -1,5 +1,6 @@
 # lt-ie-9 
 
+[![Bower version](https://badge.fury.io/bo/lt-ie-9.svg)](https://github.com/shinnn/lt-ie-9/releases)
 [![NPM version](https://badge.fury.io/js/lt-ie-9.svg)](http://badge.fury.io/js/lt-ie-9)
 [![Build Status](https://travis-ci.org/shinnn/lt-ie-9.svg?branch=master)](https://travis-ci.org/shinnn/lt-ie-9)
 [![devDependency Status](https://david-dm.org/shinnn/lt-ie-9/dev-status.svg)](https://david-dm.org/shinnn/lt-ie-9#info=devDependencies)
