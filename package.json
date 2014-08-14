@@ -1,0 +1,51 @@
+{
+	"name": "run-eslint",
+	"version": "1.0.0",
+	"description": "Execute ESLint with a simplified API",
+	"repository": "shinnn/run-eslint",
+	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+	"license": "ISC",
+	"scripts": {
+		"pretest": "eslint .",
+		"test": "nyc node test.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"lint",
+		"eslint",
+		"ecmascript",
+		"linter",
+		"simple",
+		"simplified",
+		"fix",
+		"autofix",
+		"autofixing",
+		"format",
+		"autoformat",
+		"validate",
+		"validation",
+		"style",
+		"coding-style"
+	],
+	"dependencies": {
+		"ansi-regex": "^4.0.0",
+		"eslint": "^5.10.0",
+		"inspect-with-kind": "^1.0.5",
+		"lodash": "^4.17.11"
+	},
+	"devDependencies": {
+		"@shinnn/eslint-config": "^6.8.7",
+		"nyc": "^13.1.0",
+		"nyc-config-common": "^1.0.1",
+		"pretend-platform": "^2.0.0",
+		"tape": "^4.9.1"
+	},
+	"eslintConfig": {
+		"extends": "@shinnn"
+	},
+	"nyc": {
+		"extends": "nyc-config-common"
+	}
+}
