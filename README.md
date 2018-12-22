@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/run-eslint.svg)](https://www.npmjs.com/package/run-eslint)
 [![Build Status](https://travis-ci.com/shinnn/run-eslint.svg?branch=master)](https://travis-ci.com/shinnn/run-eslint)
-[![Coverage Status](https://img.shields.io/coveralls/shinnn/run-eslint.svg)](https://coveralls.io/github/shinnn/run-eslint?branch=master)
+[![codecov](https://codecov.io/gh/shinnn/run-eslint/branch/master/graph/badge.svg)](https://codecov.io/gh/shinnn/run-eslint)
 
 Execute [ESLint](https://eslint.org/) with a simplified API
 
